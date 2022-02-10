@@ -4,9 +4,9 @@
 ### 📚 Atualmente estudando front-end com foco em Javascript 💛 <h3>
 
 <div align="center">
-  <!-- <a href="https://github.com/xjfdzn"> -->
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api?username=xjfdzn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=xjfdzn&layout=compact&langs_count=7&theme=merko"/>
+  <!-- <a href="https://github.com/xjfborges"> -->
+  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api?username=xjfborges&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=xjfborges&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ## Tecnologias
