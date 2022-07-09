@@ -1,7 +1,7 @@
 # Oie, sou o Fabrício e to sempre por aqui! <h1>
 
 ### Sou novo na área e estou experimentando cada tecnologia que vejo por ai :) <h3>
-### 📚 Atualmente estudando front-end com foco em Javascript 💛 <h3>
+### 📚 Atualmente estudando front-end com objetivo em Javascript e futuramente SQL 💛 <h3>
 
 <div align="center">
   <!-- <a href="https://github.com/xjfdzn"> -->
