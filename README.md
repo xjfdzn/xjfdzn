@@ -1,7 +1,6 @@
 # Oiie <h1>
 
-### Sou um mero novato na área e estou experimentando cada tecnologia que vejo por ai :) <h3>
-### 📚 Atualmente estudando front-end com foco em JS e possivelmente back-end no futuro 💛 <h3>
+### 📚 Atualmente estudando front-end com foco em JS e provavelmente React no futuro  <h3>
 
 <div align="center">
   <!-- <a href="https://github.com/xjfdzn"> -->
