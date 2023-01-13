@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo ao meu cantinho 100% focado no <strong>Front-end</strong>.<br>
-  Neste momento apenas estudo CSS e Javascript com foco em React JS no futuro
+  Neste momento apenas estudo CSS e Javascript com foco em React futuramente
 </p>
 
 ----
