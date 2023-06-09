@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo ao meu cantinho focado em <strong>Front-end</strong>.<br>
-  Neste momento apenas estudo CSS e Javascript com foco em Flutter futuramente
+  Neste momento apenas estudo CSS e Javascript com foco em Flutter futuramente.<br>
   Tenho muito interesse na área de segurança da informação, logo menos postarei algum projetinho relacionado
 </p>
 
