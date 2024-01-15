@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sejam bem vindos ao meu perfil perfil.<br>
-  Com enorme orgulho estou migrando meus repositórios para a área de Cybersecurity.<br>
+  Sejam bem vindos ao meu perfil perfil.<br><br>
+  Com enorme orgulho estou migrando meus repositórios para a área de Cybersecurity.<br><br>
   Logo menos postarei algumas notas que estive organizando e deixarei de livre acesso à todos que queiram conhecer um pouco da área de Red-Team
 </p>
 
