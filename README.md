@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo ao meu cantinho focado em <strong>Front-end</strong>.<br>
-  Neste momento apenas estudo CSS e Javascript com foco em Flutter futuramente.<br>
-  Tenho muito interesse na área de segurança da informação, logo menos postarei algum projetinho relacionado
+  Sejam bem vindos ao meu perfil perfil.<br>
+  Com enorme orgulho estou migrando meus repositórios para a área de Cybersecurity.<br>
+  Logo menos postarei algumas notas que estive organizando e deixarei de livre acesso à todos que queiram conhecer um pouco da área de Red-Team
 </p>
 
 ----
