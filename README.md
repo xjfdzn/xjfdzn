@@ -6,6 +6,8 @@
   Logo menos postarei algumas notas que estive organizando e deixarei de livre acesso à todos que queiram conhecer um pouco da área de Red-Team
 </p>
 
+<script src="https://tryhackme.com/badge/2671279"></script> <br><br><br><br>
+
 ----
 
 <p align="left">
