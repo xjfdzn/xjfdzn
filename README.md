@@ -9,6 +9,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/flamynz.png" alt="TryHackMe"> 
 
+<script src="https://tryhackme.com/badge/2671279"></script>
+
 ----
 
 <p align="left">
