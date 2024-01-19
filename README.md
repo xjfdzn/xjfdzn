@@ -6,11 +6,9 @@
   Logo menos postarei algumas notas que estive organizando e deixarei de livre acesso à todos que queiram conhecer um pouco da área de Red-Team
 </p>
 
-<br>
-<br>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/flamynz.png" alt="TryHackMe"> 
-<br>
-<br>
+
 ----
 
 <p align="left">
