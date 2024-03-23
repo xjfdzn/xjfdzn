@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Sejam bem vindos ao meu perfil<br><br>
-  Com enorme orgulho estou migrando meus repositórios para a área de Cybersecurity.<br><br>
-  Logo menos postarei algumas notas que estive organizando e deixarei de livre acesso à todos que queiram conhecer um pouco da área de Red-Team
+  Estou migrando meus repositórios para a área de Cybersecurity.<br><br>
+  Logo menos postarei algumas notas que estive organizando sobre a área de RedTeam
 </p>
 
 
