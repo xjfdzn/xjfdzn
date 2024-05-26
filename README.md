@@ -6,7 +6,7 @@
   Logo menos postarei algumas notas que estive organizando sobre a área de RedTeam
 </p>
 
-
+<script src="https://tryhackme.com/badge/2671279"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/flamynz.png" alt="TryHackMe">
 
 
