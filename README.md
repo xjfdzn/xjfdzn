@@ -12,7 +12,7 @@
 
 ----
 
-<img src="https://raw.githubusercontent.com/xjfdzn/xjfdzn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xjfdzn/xjfdzn/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
