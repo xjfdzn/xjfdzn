@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estou migrando meus repositórios para a área de Cybersecurity.<br><br>
-  Logo menos postarei algumas notas que estive organizando sobre a área de RedTeam 🛡️
+  Cantinho de estudos de Cybersecurity🛡️.<br><br>
+  Em breve, repositórios públicos com snippets de ServiceNow 🟢
 </p>
 
 
