@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Cantinho de estudos de Cybersecurity (red-team)🛡️.<br>
-  Em breve, repositórios públicos com snippets de ServiceNow 🟢
+  Repositórios estudos de módulos e scripts de ServiceNow 🟢 <br>
+  Antigo cantinho de estudos de Cybersecurity (red-team)🛡️.
 </p>
 
 
