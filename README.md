@@ -2,7 +2,7 @@
 
 <p align="left"> 
   My ServiceNow study Repositories 🟢 <br>
-  Client & Server Scripts, Business Rules, Modules, Portal and more. <br><br>
+  Client & Server Scripts, Business Rules, Playbooks, Portal and more. <br><br>
   Old Cybersecurity study room (red-team)🛡️
 </p>
 
