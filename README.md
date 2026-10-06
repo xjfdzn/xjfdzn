@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  My ServiceNow study Repositories 🟢 <br>
-  Client & Server Scripts, Business Rules, Playbooks, Portal and more. <br><br>
-  Old Cybersecurity study room (red-team)🛡️
+  Old Cybersecurity study room (red-team)🛡️ <br>
 </p>
 
 
